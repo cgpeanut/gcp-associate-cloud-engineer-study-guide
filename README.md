@@ -1,5 +1,4 @@
 ```
-```
 chapter 1: Overview of GCP Platform
 ```
 chapter 2: GCP Computing Services
@@ -35,5 +34,4 @@ chapter 16: deploying applications with cloud launcher and deployment manager
 chapter 17: configuring access to security
 ```
 chapter 18: manitoring, logging and cost estimating
-```
 ```
