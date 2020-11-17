@@ -97,11 +97,19 @@ section 4: ensuring successful operation of a cloud solution
 - attaching a GPU to a new instance and installing CUDA libraries
 - viewing current running VM inventory (instance IDs, details)
 - working with snapshots (create a snapshot from a VM, view snapshot, delete snapshot)
-- working with images (create an image from a VM or a snapshot, view images, delete 
+- working with images (create an image from a VM or a snapshot, view images, delete
   an image)
 - working with instance groups (set autoscaling parametersm assign an instance template,
   create an instance template, remove an instance group)
 - working with management interfaces (cloud console, clous shell, cloud SDK)
+
+4.2 managing kubernetes engine resources tasks include
+- viewing current runing cluster inventory (nodes, pods, services)
+- browsing the container image repository and viewing container image details
+- working with nodes (add, edit, or remove a node)
+- working with pods (add, edit, or remove a pods)
+- working with services ( add, edit, or remove a service) 
+- working with management insterfaces ( cloud console, cloud shell, cloud SDK)
 
 
 
