@@ -1,13 +1,9 @@
 ```
 chapter 1: Overview of GCP Platform
 chapter 2: GCP Computing Services
-```
 chapter 3: projects, services, accounts and billi g
-```
 chapter 4: introduction to computing in google cloud
-```
 chapter 5: computing with compute engine virtual machines
-```
 chapter 6: managing virtual machines
 ```
 chapter 7: computing with kubernetes
