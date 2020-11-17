@@ -28,9 +28,20 @@ section 1: setting up a clopud solution environment
 
 section 2: Planing and configuring a cloud solution
 2.1 planning and estimating GCP product use using price calculator
+
 2.2 planning and configuring compute resources. considerations include:
     - selecting appropriate compute for a given workload (compute engine, kunernetes engine, app engine)
-    - using preemptible VMs and custom machine type as appropriate
+    - using preemptible VMs and custom machine type as appropriate.
+
+2.3 planning and configuring data storage options. 
+    - product choice (e.g: Cloud SQL, BigQuery, Cloud Spanner, Cloud Bigtable)
+    - choosing storage options (regional, multiregional, nearline, coldline)
+
+2.4 planning and configuring network resources. Tasks include:
+
+
+
+
 chapter 1: Overview of GCP Platform
 chapter 2: GCP Computing Services
 chapter 3: projects, services, accounts and billi g
