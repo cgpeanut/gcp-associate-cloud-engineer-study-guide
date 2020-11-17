@@ -7,12 +7,21 @@ gcp associate engineer certification exam objectives
     - setting up identity managament, access controls, and other security measures.
 
 objective map:
-    https://cloud.google.com//certication/guides/cloud-engineer/
+    https://cloud.google.com/certication/guides/cloud-engineer/
 
 section 1: setting up a clopud solution envirnment 
+1.1 setting up cloud projects and accounts
     creating a project
     assigning users to predefined IAM (identity access management) roles within a project
-    linking usrs to G suite identities
+    linking users to G suite identities
+    enabling APIs within projects
+    provisioning one or more stackdriver accounts
+1.2 managing billing configuration.
+    creating one or more billing accounts
+    linking projects to billing accounts
+    establishing billing budgets and alerts
+    setting up billing expports to estimate daily/monthly charges
+section 2: 
 
 chapter 1: Overview of GCP Platform
 chapter 2: GCP Computing Services
