@@ -27,6 +27,7 @@ section 1: setting up a clopud solution environment
 1.3 installing and configuring the command-line interface (CLI), specifically Cloud SDK (setting up default project)
 
 section 2: Planing and configuring a cloud solution
+
 2.1 planning and estimating GCP product use using price calculator
 
 2.2 planning and configuring compute resources. considerations include:
@@ -38,6 +39,21 @@ section 2: Planing and configuring a cloud solution
     - choosing storage options (regional, multiregional, nearline, coldline)
 
 2.4 planning and configuring network resources. Tasks include:
+
+- differentiating load balancing options
+- identifying resource locations in a network for availability
+- configuring cloud DNS
+
+Section 3: Deploying and implementing a cloud solution 
+
+3.1 deploying and implementing compute engine resources. Tasks include:
+
+- launching a compute instance using cloud console and cloud SDK (gcloud) (assign disks, 
+availability policy and SSH key)
+- creating an autoscaled managed instance group using instance template.
+- generating/uploading a custome SSH key for instance
+- accessing compute quotas and requesting increases
+- installing the stackdriver agent for monitoring and logging
 
 
 
