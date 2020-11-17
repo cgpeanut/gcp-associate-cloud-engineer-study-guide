@@ -68,8 +68,10 @@ availability policy and SSH key)
 
 3.4 deploying and implementing data solutions tasks include:
 
-- initializing data systems with products (CloudSQ)
+- initializing data systems with products (CloudSQL, cloud datastore, BigQuery, Cloud Spanner, Cloud Pub/Sub, Cloud BigTable, Cloud DataProc, Cloud Storage)
+- loading data (command line upload, API transfer, import/export, load data from cloud storage, streaming data to cloud Pub/Sub)
 
+3.5 
 chapter1: Overview of GCP Platform
 chapter 2: GCP Computing Services
 chapter 3: projects, services, accounts and billi g
