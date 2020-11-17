@@ -71,7 +71,16 @@ availability policy and SSH key)
 - initializing data systems with products (CloudSQL, cloud datastore, BigQuery, Cloud Spanner, Cloud Pub/Sub, Cloud BigTable, Cloud DataProc, Cloud Storage)
 - loading data (command line upload, API transfer, import/export, load data from cloud storage, streaming data to cloud Pub/Sub)
 
-3.5 
+3.5 deploying and implementing networking resources. tasks include
+
+- creating VPC and subnets (e.g custom-mode VPC, shared VPC) 
+- launching a compute engine instance with custom network configuration (internal-only  IP address, google private access, static external and private IP address, network tags)
+- creating ingress abd egress firewall rules for a VPC (IP subnets, tags, service accounts)
+- creating a VPN between a Google VPC and an externsal network using Cloud VPN
+- creating a load balancer to distribute application network traffic to an application (global HTTP(s) load balancer, global SSL proxy load balancer, global TCP proxy load balancer, regional network load balancer, regional internal load balancer)
+
+
+
 chapter1: Overview of GCP Platform
 chapter 2: GCP Computing Services
 chapter 3: projects, services, accounts and billi g
