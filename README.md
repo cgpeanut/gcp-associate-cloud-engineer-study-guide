@@ -22,7 +22,8 @@ section 1: setting up a clopud solution environment
     - establishing billing budgets and alerts
     - setting up billing expports to estimate daily/monthly charges
 
-1.3 installing and configuring the command-line interface (CLI), specifically Cloud SDK (setting up default project)
+1.3 installing and configuring the command-line interface (CLI), specifically
+    Cloud SDK (setting up default project)
 
 section 2: Planing and configuring a cloud solution
 
