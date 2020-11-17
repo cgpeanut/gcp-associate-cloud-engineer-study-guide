@@ -5,11 +5,13 @@ gcp associate engineer certification exam objectives
     - deploying applications and infrastructure
     - using monitoring and logging to ensure availability of cloud solutions
     - setting up identity managament, access controls, and other security measures.
-
+```
 objective map:
     https://cloud.google.com/certication/guides/cloud-engineer/
+```
 
 section 1: setting up a clopud solution environment 
+```
 
 1.1 setting up cloud projects and accounts
     - creating a project
@@ -17,6 +19,7 @@ section 1: setting up a clopud solution environment
     - linking users to G suite identities
     - enabling APIs within projects
     - provisioning one or more stackdriver accounts
+```
 
 1.2 managing billing configuration.
     - creating one or more billing accounts
