@@ -55,10 +55,22 @@ availability policy and SSH key)
 - accessing compute quotas and requesting increases
 - installing the stackdriver agent for monitoring and logging
 
+3.2 deploying and implementing kubernetes engine resources. task include:
 
+- deploying kubernetes engine cluster
+- deploying a conatiner application to kubernetes engine using pods
+- configuring kubernetes engine application monityoring and logging
 
+3.3 deploying and implementing app engine and cloud functions resources tasks include:
 
-chapter 1: Overview of GCP Platform
+- deploying an application to app engine (scaling configuration, versions and traffic splitting)
+- deploying a cloud function thast receives Google Cloud events (cloud Pub/Sub events, cloud storage object change notification events)
+
+3.4 deploying and implementing data solutions tasks include:
+
+- initializing data systems with products (CloudSQ)
+
+chapter1: Overview of GCP Platform
 chapter 2: GCP Computing Services
 chapter 3: projects, services, accounts and billi g
 chapter 4: introduction to computing in google cloud
