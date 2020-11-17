@@ -80,6 +80,31 @@ availability policy and SSH key)
 - creating a VPN between a Google VPC and an externsal network using Cloud VPN
 - creating a load balancer to distribute application network traffic to an application (global HTTP(s) load balancer, global SSL proxy load balancer, global TCP proxy load balancer, regional network load balancer, regional internal load balancer)
 
+3.6 deploying a solution using cloud launcher Tasks include: 
+- browsing the cloud launcher catalog and viewing solutions details
+- deploying a cloud launcher marketplace solution
+
+3.7 deploying an application using deployment manager tasks include
+- developing deployment manager templates to automate deployment of an application
+- launching a deployment manager template to provision GCP resources and configure an
+  application automatically. 
+
+section 4: ensuring successful operation of a cloud solution
+
+4.1 managing compute engine resources task include
+- managin a single VM instance (start, stop, edit configurations, or delete an instance)
+- SSH/RDP to an instance
+- attaching a GPU to a new instance and installing CUDA libraries
+- viewing current running VM inventory (instance IDs, details)
+- working with snapshots (create a snapshot from a VM, view snapshot, delete snapshot)
+- working with images (create an image from a VM or a snapshot, view images, delete 
+  an image)
+- working with instance groups (set autoscaling parametersm assign an instance template,
+  create an instance template, remove an instance group)
+- working with management interfaces (cloud console, clous shell, cloud SDK)
+
+
+
 chapter1: Overview of GCP Platform
 chapter 2: GCP Computing Services
 chapter 3: projects, services, accounts and billi g
