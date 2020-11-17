@@ -1,6 +1,5 @@
 ```
 chapter 1: Overview of GCP Platform
-```
 chapter 2: GCP Computing Services
 ```
 chapter 3: projects, services, accounts and billi g
