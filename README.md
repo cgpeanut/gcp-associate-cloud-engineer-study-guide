@@ -1,4 +1,11 @@
 ```
+gcp associate engineer certification objectives
+    - planing a cloud solution using one or more gcp services
+    - creating cloud environemtns for an organization
+    - deploying applications and infrastructure
+    - using monitoring and logging to ensure availability of cloud solutions
+    - setting up identity managament, access controls, and other security measures.
+```
 chapter 1: Overview of GCP Platform
 chapter 2: GCP Computing Services
 chapter 3: projects, services, accounts and billi g
