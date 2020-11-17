@@ -1,6 +1,8 @@
+```
+```
 chapter 1: Overview of GCP Platform
 chapter 2: GCP Computing Services
-chapter 3: projects, services, accounts and billing
+chapter 3: projects, services, accounts and billi g
 chapter 4: introduction to computing in google cloud
 chapter 5: computing with compute engine virtual machines
 chapter 6: managing virtual machines
@@ -16,3 +18,5 @@ chapter 15: networking in the cloud: DNS, load balancing, and IP addressing
 chapter 16: deploying applications with cloud launcher and deployment manager
 chapter 17: configuring access to security
 chapter 18: manitoring, logging and cost estimating
+```
+```
